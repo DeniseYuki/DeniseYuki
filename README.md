@@ -1,16 +1,10 @@
-<h1 align="center">Hi 👋🏻, I'm Denise Yuki</h1>
+<h1 align="center"> Denise Yuki</h1>
 <h3 align="center">I'm a Student, Developer, Learner!</h3>
 
 
-- 💻 I’m currently learning about **Backend**
+- 💻 Aprendendo a programar em C#
 
-- 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
-
-- 💬 Ask me about **HTML , CSS, JavaScript, jQuery, Express.js, MongoDB**
-
-
-
-- ⚡ Fun fact: **I love to listen to music**
+- 💬 Ask me about Math
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
