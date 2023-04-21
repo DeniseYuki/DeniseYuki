@@ -12,6 +12,9 @@
 </a>
 </p>
 
+  ![Snake animation](https://github.com/DeniseYuki/DeniseYuki/blob/output/github-contribution-grid-snake.svg)
+
+
 ### Estudando no momento:
 ![JAVASCRIPT](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
