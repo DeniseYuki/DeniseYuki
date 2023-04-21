@@ -14,10 +14,10 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/devesh-kumar-singh-b43580136" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="devesh-kumar-singh-b43580136" height="30" width="40" /> </a>
-<a href="https://fb.com/devesh19.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="devesh19.07" height="30" width="40" /> </a>
-<a href="https://instagram.com/buck.sh0t" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/1384/1384063.png" alt="buck.sh0t" height="30" width="40" /> </a>
-<a href="https://www.codechef.com/users/buckshot" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1347119566623711232/WmTasleL_400x400.jpg" alt="buckshot" height="30" width="40" /> </a>
+<a href="https://www.linkedin.com/in/deniseyuki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="devesh-kumar-singh-b43580136" height="30" width="40" /> </a>
+<a href="https://www.facebook.com/profile.php?id=100082453116640" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="devesh19.07" height="30" width="40" /> </a>
+
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,10 +42,7 @@
     </a>
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
-    </a> 
-    <a href="https://www.linux.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>  
-    </a> 
+    </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-19&layout=compact&theme=midnight-purple" alt="Devesh-19" /></p>
