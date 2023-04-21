@@ -12,7 +12,9 @@
 </a>
 </p>
 
-  ![Snake animation](https://github.com/DeniseYuki/DeniseYuki/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DeniseYuki/DeniseYuki/blob/3d9ead7ea088cb442c88da8438babf6884ba02eb/github-contribution-grid-snake.svg)
+ 
+  
 
 
 ### Estudando no momento:
