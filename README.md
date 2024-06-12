@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F73BE0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Denise+Yuki;+Prof+de+Matemática+apaixonada+por+Estatística;+:%29)](https://git.io/typing-svg)- 📚  Formada em Matemática e Engenharia de Computação
-- 🧠 Formada em Licenciatura em matemática e Engenharia de Computação, realizando pós-graduação em Data Science
+- 🧠 Realizando pós-graduação em Data Science
 - 💻 Montando aplicativos de análise de dados
 
 <p align="left">
