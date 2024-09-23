@@ -1,8 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F73BE0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Denise+Yuki;+Prof+de+Matemática+apaixonada+por+Estatística;+:%29)](https://git.io/typing-svg)- 📚  Formada em Matemática e Engenharia de Computação
-- 🧠 Realizando pós-graduação em Data Science
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F73BE0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Denise+Yuki;+Prof+de+Matemática+apaixonada+por+Estatística;+:%29)](https://git.io/typing-svg)- 📚  Formada em Matemática e Engenharia de Computação e atualmente cursando ciência de dados (bacharelado)
+- 🧠 pós-graduada em Data Science
+- 🧠 Realizando MBA em Big Data e Inteligência Competitiva
 - 💻 Montando aplicativos de análise de dados
 
-<p align="left">
+<p align="left 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/deniseyuki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="devesh-kumar-singh-b43580136" height="30" width="40" /> </a>
 <a href="https://www.facebook.com/profile.php?id=100082453116640" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="devesh19.07" height="30" width="40" /> </a>
